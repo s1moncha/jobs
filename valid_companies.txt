@@ -1,0 +1,106 @@
+TripAdvisor
+Benchling
+Duolingo
+IMC
+Coalition
+William Blair
+Okta
+Twilio
+Upwork
+Airtable
+Zscaler
+Jane Street
+Affirm
+Smartsheet
+Indeed
+Snapdocs
+Faire
+HashiCorp
+Astera Labs
+Stack AV
+Celonis
+LivePerson
+Carta
+Grammarly
+Opendoor
+Gemini
+Carbon
+Pinterest
+Qualtrics
+Epic Games
+Block
+Coursera
+Impinj
+Samsara
+Dropbox
+Coinbase
+ZoomInfo
+Appian
+HubSpot
+Archer
+Databricks
+Niantic
+Airbnb
+Nuro
+Perplexity AI
+Snorkel AI
+Marqeta
+Instacart
+LinkedIn
+Lyft
+Roku
+Brex
+Jump Trading
+Datadog
+Flexport
+Wayfair
+Roblox
+AlixPartners
+Figma
+Chime
+Lucid Motors
+Amplitude
+Course Hero
+Groq
+Glean
+Coupang
+Robinhood
+Rubrik
+IDEO
+insitro
+Underdog Fantasy
+Discord
+New Relic
+PDT Partners
+Pure Storage
+MongoDB
+Figure AI
+Disney
+Reddit
+Webflow
+Stitch Fix
+SoFi
+Bill.com
+Elastic
+Upstart
+Anduril Industries
+Gusto
+Asana
+Thumbtack
+Twitch
+Riot Games
+Stripe
+Axon
+Chan Zuckerberg Initiative
+Retool
+Credit Karma
+10x Genomics
+Schonfeld
+Scale AI
+GoDaddy
+GitLab
+Peloton
+Waymo
+Hologram
+Anthropic
+Mozilla
