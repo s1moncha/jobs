@@ -23,8 +23,8 @@
     "location": "San Francisco, CA",
     "url": "https://boards.greenhouse.io/benchling/jobs/7362703?gh_jid=7362703",
     "posted": "2025-11-11T17:40:29-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T10:52:36.688Z"
   },
   {
     "company": "Benchling",
@@ -203,8 +203,8 @@
     "location": "San Jose, California, USA",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/5015430007",
     "posted": "2026-01-06T14:20:07-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T10:57:28.955Z"
   },
   {
     "company": "Zscaler",
@@ -563,8 +563,8 @@
     "location": "Chicago, Illinois, United States",
     "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
     "posted": "2025-11-04T17:33:57-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T10:59:59.353Z"
   },
   {
     "company": "William Blair",
@@ -572,8 +572,8 @@
     "location": "Chicago, Illinois, United States",
     "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
     "posted": "2025-11-04T17:35:01-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T11:00:56.837Z"
   },
   {
     "company": "Twilio",
@@ -662,8 +662,8 @@
     "location": "San Jose, California, USA",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/4998297007",
     "posted": "2025-12-04T15:48:05-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T11:01:55.319Z"
   },
   {
     "company": "Zscaler",
@@ -689,8 +689,8 @@
     "location": "San Jose, California, USA",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/4996494007",
     "posted": "2025-12-02T17:51:31-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T11:02:51.954Z"
   },
   {
     "company": "Zscaler",
@@ -824,7 +824,7 @@
     "location": "San Francisco, California, United States",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
     "posted": "2025-11-24T16:41:13-05:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T11:03:58.419Z"
   }
 ]
