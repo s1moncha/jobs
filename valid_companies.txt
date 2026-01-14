@@ -9,13 +9,11 @@ Twilio
 Upwork
 Airtable
 Zscaler
-Jane Street
 Affirm
 Smartsheet
 Indeed
 Snapdocs
 Faire
-HashiCorp
 Astera Labs
 Stack AV
 Celonis
