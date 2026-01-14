@@ -1,42 +1,6 @@
 [
   {
     "company": "Benchling",
-    "title": "Software Engineer, AI Growth",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7396263?gh_jid=7396263",
-    "posted": "2025-11-13T18:37:02-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Developer Enablement",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7522089?gh_jid=7522089",
-    "posted": "2026-01-07T21:52:35-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Intern (Summer 2026)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7362703?gh_jid=7362703",
-    "posted": "2025-11-11T17:40:29-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T10:52:36.688Z"
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, New Grad (2026)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7386982?gh_jid=7386982",
-    "posted": "2025-11-11T17:44:59-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
     "title": "Software Engineer, Search",
     "location": "San Francisco, CA",
     "url": "https://boards.greenhouse.io/benchling/jobs/7535874?gh_jid=7535874",
@@ -45,47 +9,29 @@
     "applied_at": null
   },
   {
-    "company": "Duolingo",
-    "title": "AI Research Engineer, New PhD Graduate",
-    "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002",
-    "posted": "2025-09-15T09:36:22-04:00",
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "location": "San Diego, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7535614?gh_jid=7535614",
+    "posted": "2026-01-13T12:42:10-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "Duolingo",
-    "title": "AI Research Engineer, New PhD Graduate",
-    "location": "New York, NY",
-    "url": "https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002",
-    "posted": "2025-09-15T13:29:46-04:00",
+    "company": "Twilio",
+    "title": "Presales Architect, Product Specialist 5 (CDP, MarTech)",
+    "location": "Remote - Singapore",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7462559",
+    "posted": "2026-01-12T20:42:53-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Data Engineer",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4439297101",
-    "posted": "2025-06-10T12:30:56-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "IMC",
-    "title": "Graduate Machine Learning Researcher",
-    "location": "Chicago, United States; New York, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608585101",
-    "posted": "2025-07-01T16:53:25-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "IMC",
-    "title": "Graduate Quantitative Researcher (BS/MS)",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101",
-    "posted": "2025-07-01T11:15:41-04:00",
+    "company": "Affirm",
+    "title": "Software Engineer, Backend (Marketplace Experience)",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7579879003",
+    "posted": "2026-01-12T17:52:20-05:00",
     "applied": false,
     "applied_at": null
   },
@@ -99,56 +45,110 @@
     "applied_at": null
   },
   {
+    "company": "Twilio",
+    "title": "Cloud Software Engineer",
+    "location": "Remote - Ireland",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7484699",
+    "posted": "2026-01-12T12:33:35-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7580858003",
+    "posted": "2026-01-12T03:18:44-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7392968?gh_jid=7392968",
+    "posted": "2026-01-09T16:00:36-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
     "company": "IMC",
-    "title": "Graduate Software Engineer (2026)",
+    "title": "Compliance Data Analyst",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4749997101",
+    "posted": "2026-01-08T15:29:46-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Developer Enablement",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7522089?gh_jid=7522089",
+    "posted": "2026-01-07T21:52:35-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Marketing Data Scientist Intern",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5015430007",
+    "posted": "2026-01-06T14:20:07-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T10:57:28.955Z"
+  },
+  {
+    "company": "IMC",
+    "title": "Power & Gas Quantitative Analyst",
     "location": "Aarhus, Central Denmark Region, Denmark",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
-    "posted": "2025-08-27T14:11:00-04:00",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4685067101",
+    "posted": "2026-01-06T05:56:37-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Graduate Trading Operations Specialist",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
-    "posted": "2025-10-31T11:48:37-04:00",
+    "company": "Duolingo",
+    "title": "Learning Scientist, Efficacy Research",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002",
+    "posted": "2026-01-05T14:52:19-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Machine Learning Engineer",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4570309101",
-    "posted": "2025-04-07T13:15:21-04:00",
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7472456",
+    "posted": "2026-01-05T14:22:46-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Research Engineer",
-    "location": "Chicago, United States; New York, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4653321101",
-    "posted": "2025-08-18T13:50:55-04:00",
+    "company": "Affirm",
+    "title": "People Technology Analyst",
+    "location": "Remote UK",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7562139003",
+    "posted": "2025-12-23T11:47:22-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Software Engineer",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4704842101",
-    "posted": "2025-11-03T17:23:31-05:00",
+    "company": "Benchling",
+    "title": "Enablement Program Coordinator ",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7492065?gh_jid=7492065",
+    "posted": "2025-12-22T17:59:58-05:00",
     "applied": false,
     "applied_at": null
   },
   {
-    "company": "IMC",
-    "title": "Software Engineer, Early Career",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
-    "posted": "2025-04-17T13:55:45-04:00",
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Credit Decisioning)",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7550577003",
+    "posted": "2025-12-21T11:40:27-05:00",
     "applied": false,
     "applied_at": null
   },
@@ -162,20 +162,362 @@
     "applied_at": null
   },
   {
-    "company": "Twilio",
-    "title": "Software Engineer (L3)",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
-    "posted": "2025-08-27T12:25:33-04:00",
+    "company": "IMC",
+    "title": "Quantitative Researcher – Futures",
+    "location": "Chicago, United States; New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4740859101",
+    "posted": "2025-12-18T14:40:46-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Analyst I, Full Stack",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
+    "posted": "2025-12-17T14:50:43-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7560426003",
+    "posted": "2025-12-17T14:50:14-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Finance Intern ",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5005336007",
+    "posted": "2025-12-16T11:53:37-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Product Operations Intern",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5002419007",
+    "posted": "2025-12-12T14:29:03-05:00",
     "applied": false,
     "applied_at": null
   },
   {
     "company": "Twilio",
-    "title": "Software Engineer (L3)",
+    "title": "Conversion Rate Optimization Specialist",
     "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7472456",
-    "posted": "2026-01-05T14:22:46-05:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7463712",
+    "posted": "2025-12-11T18:18:48-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Twilio",
+    "title": "Conversion Rate Optimization Specialist",
+    "location": "Remote - Canada",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7461941",
+    "posted": "2025-12-11T17:53:38-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Schemas & Object Framework",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7456737?gh_jid=7456737",
+    "posted": "2025-12-09T19:52:59-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Business Analyst Intern",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4998297007",
+    "posted": "2025-12-04T15:48:05-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T11:01:55.319Z"
+  },
+  {
+    "company": "Zscaler",
+    "title": "Product Management Intern, AI",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4996494007",
+    "posted": "2025-12-02T17:51:31-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T11:02:51.954Z"
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Collections)",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7538088003",
+    "posted": "2025-12-01T09:23:01-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Collections)",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7538090003",
+    "posted": "2025-12-01T09:23:01-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "William Blair",
+    "title": "2027 Investment Banking Summer Analyst, Life Sciences",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4977450007",
+    "posted": "2025-12-01T08:52:01-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Full Stack (Registry and Inventory)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7416341?gh_jid=7416341",
+    "posted": "2025-11-30T20:12:51-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": " Software Engineer, Full Stack (Registry and Inventory)",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7416988?gh_jid=7416988",
+    "posted": "2025-11-30T20:12:50-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career",
+    "location": "San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
+    "posted": "2025-11-28T16:35:13-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T20:38:57.980Z"
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer, Early Career",
+    "location": "New York, New York, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
+    "posted": "2025-11-28T16:34:45-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "location": "Remote UK",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7533759003",
+    "posted": "2025-11-28T05:48:47-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Backend (Usage & Billing Platform)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7421648?gh_jid=7421648",
+    "posted": "2025-11-25T18:28:27-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineering Intern - Summer 2026",
+    "location": "San Francisco, California, United States",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
+    "posted": "2025-11-24T16:41:13-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T11:03:58.419Z"
+  },
+  {
+    "company": "Zscaler",
+    "title": "Talent Development Intern",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4989934007",
+    "posted": "2025-11-21T17:25:27-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer- L2",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7406218",
+    "posted": "2025-11-20T11:06:38-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "location": "Philadelphia, PA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7398308?gh_jid=7398308",
+    "posted": "2025-11-14T16:14:09-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "location": "Raleigh, NC",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7398307?gh_jid=7398307",
+    "posted": "2025-11-14T16:14:08-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Sales Engineer",
+    "location": "Remote - Hong Kong",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4966954007",
+    "posted": "2025-11-13T23:00:36-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Scientific Models (Platform)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7396257?gh_jid=7396257",
+    "posted": "2025-11-13T18:40:26-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, AI Growth",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7396263?gh_jid=7396263",
+    "posted": "2025-11-13T18:37:02-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Agents",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7390236?gh_jid=7390236",
+    "posted": "2025-11-13T18:32:43-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Twilio",
+    "title": "AI Application Analyst",
+    "location": "Remote - Colombia",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7396056",
+    "posted": "2025-11-13T17:41:34-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Solution Consultant - R&D",
+    "location": "Boston, MA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7393022?gh_jid=7393022",
+    "posted": "2025-11-13T12:59:48-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Affirm",
+    "title": "Analyst II, Full Stack",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7511213003",
+    "posted": "2025-11-12T08:28:25-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7386982?gh_jid=7386982",
+    "posted": "2025-11-11T17:44:59-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Intern (Summer 2026)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7362703?gh_jid=7362703",
+    "posted": "2025-11-11T17:40:29-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T10:52:36.688Z"
+  },
+  {
+    "company": "Zscaler",
+    "title": "Business Intelligence Developer",
+    "location": "Escazu, CRI",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4972055007",
+    "posted": "2025-11-10T09:46:15-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "William Blair",
+    "title": "Researcher",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4959703007",
+    "posted": "2025-11-10T07:34:33-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Cyber Incident Response/Customer Security Operations - SkillBridge Intern  ",
+    "location": "Remote - Maryland, USA; Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4970289007",
+    "posted": "2025-11-05T14:59:11-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Working Student - Tech",
+    "location": "Aarhus, Central Denmark Region, Denmark",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4685421101",
+    "posted": "2025-11-05T07:00:23-05:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "William Blair",
+    "title": "Working in Technology (WiT) Data Science - Summer 2026",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
+    "posted": "2025-11-04T17:35:01-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T11:00:56.837Z"
+  },
+  {
+    "company": "William Blair",
+    "title": "Working in Technology (WiT) Application Development - Summer 2026",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
+    "posted": "2025-11-04T17:33:57-05:00",
+    "applied": true,
+    "applied_at": "2026-01-14T10:59:59.353Z"
+  },
+  {
+    "company": "IMC",
+    "title": "Software Engineer",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4704842101",
+    "posted": "2025-11-03T17:23:31-05:00",
     "applied": false,
     "applied_at": null
   },
@@ -190,33 +532,6 @@
   },
   {
     "company": "Zscaler",
-    "title": "Business Intelligence Developer",
-    "location": "Escazu, CRI",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4972055007",
-    "posted": "2025-11-10T09:46:15-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Marketing Data Scientist Intern",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5015430007",
-    "posted": "2026-01-06T14:20:07-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T10:57:28.955Z"
-  },
-  {
-    "company": "Zscaler",
-    "title": "Sales Engineer",
-    "location": "Remote - Hong Kong",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4966954007",
-    "posted": "2025-11-13T23:00:36-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
     "title": "Sr. Software Engineer, Integrations (Workato)",
     "location": "San Jose, California, USA",
     "url": "https://job-boards.greenhouse.io/zscaler/jobs/4947675007",
@@ -225,11 +540,20 @@
     "applied_at": null
   },
   {
-    "company": "Affirm",
-    "title": "Software Engineer",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7560426003",
-    "posted": "2025-12-17T14:50:14-05:00",
+    "company": "IMC",
+    "title": "Graduate Trading Operations Specialist",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608591101",
+    "posted": "2025-10-31T11:48:37-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Backend (Performance and Observability)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7347464?gh_jid=7347464",
+    "posted": "2025-10-21T16:58:36-04:00",
     "applied": false,
     "applied_at": null
   },
@@ -243,20 +567,74 @@
     "applied_at": null
   },
   {
-    "company": "Affirm",
-    "title": "Software Engineer, Early Career",
-    "location": "New York, New York, United States",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485072003",
-    "posted": "2025-11-28T16:34:45-05:00",
+    "company": "Twilio",
+    "title": "Application Integration Engineer",
+    "location": "Remote - Colombia",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7312780",
+    "posted": "2025-10-15T11:20:59-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Technical Project Management-SkillBridge Intern",
+    "location": "USA - Update Location",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4941045007",
+    "posted": "2025-10-10T14:23:02-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Schemas & Object Framework",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7289522?gh_jid=7289522",
+    "posted": "2025-10-03T16:51:07-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Developer Productivity Engineer",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4683475101",
+    "posted": "2025-09-30T10:35:15-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Software Engineer – AI Powered Engineering",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4682071101",
+    "posted": "2025-09-26T15:44:39-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Backend (Developer Tooling)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921",
+    "posted": "2025-09-18T18:24:54-04:00",
     "applied": false,
     "applied_at": null
   },
   {
     "company": "Affirm",
-    "title": "Software Engineer, Early Career",
-    "location": "San Francisco, California, United States",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
-    "posted": "2025-11-28T16:35:13-05:00",
+    "title": "Quantitative Analyst II",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7386523003",
+    "posted": "2025-09-18T15:21:38-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate",
+    "location": "New York, NY",
+    "url": "https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002",
+    "posted": "2025-09-15T13:29:46-04:00",
     "applied": false,
     "applied_at": null
   },
@@ -279,173 +657,65 @@
     "applied_at": null
   },
   {
-    "company": "Benchling",
-    "title": "Enablement Program Coordinator ",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7492065?gh_jid=7492065",
-    "posted": "2025-12-22T17:59:58-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Agents",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7390236?gh_jid=7390236",
-    "posted": "2025-11-13T18:32:43-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Backend (Developer Tooling)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7255921?gh_jid=7255921",
-    "posted": "2025-09-18T18:24:54-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Backend (Performance and Observability)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7347464?gh_jid=7347464",
-    "posted": "2025-10-21T16:58:36-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Backend (Usage & Billing Platform)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7421648?gh_jid=7421648",
-    "posted": "2025-11-25T18:28:27-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Full Stack (Data Input)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7008978?gh_jid=7008978",
-    "posted": "2025-06-25T12:39:28-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": " Software Engineer, Full Stack (Registry and Inventory)",
-    "location": "Boston, MA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7416988?gh_jid=7416988",
-    "posted": "2025-11-30T20:12:50-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Full Stack (Registry and Inventory)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7416341?gh_jid=7416341",
-    "posted": "2025-11-30T20:12:51-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Schemas & Object Framework",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7456737?gh_jid=7456737",
-    "posted": "2025-12-09T19:52:59-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Schemas & Object Framework",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7289522?gh_jid=7289522",
-    "posted": "2025-10-03T16:51:07-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Software Engineer, Scientific Models (Platform)",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7396257?gh_jid=7396257",
-    "posted": "2025-11-13T18:40:26-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Solution Consultant - R&D",
-    "location": "Raleigh, NC",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7398307?gh_jid=7398307",
-    "posted": "2025-11-14T16:14:08-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Solution Consultant - R&D",
-    "location": "Philadelphia, PA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7398308?gh_jid=7398308",
-    "posted": "2025-11-14T16:14:09-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Solution Consultant - R&D",
-    "location": "Boston, MA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7393022?gh_jid=7393022",
-    "posted": "2025-11-13T12:59:48-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Solution Consultant - R&D",
-    "location": "San Francisco, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7392968?gh_jid=7392968",
-    "posted": "2026-01-09T16:00:36-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Benchling",
-    "title": "Solution Consultant - R&D",
-    "location": "San Diego, CA",
-    "url": "https://boards.greenhouse.io/benchling/jobs/7535614?gh_jid=7535614",
-    "posted": "2026-01-13T12:42:10-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
     "company": "Duolingo",
-    "title": "Learning Scientist, Efficacy Research",
+    "title": "AI Research Engineer, New PhD Graduate",
     "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002",
-    "posted": "2026-01-05T14:52:19-05:00",
+    "url": "https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002",
+    "posted": "2025-09-15T09:36:22-04:00",
     "applied": false,
     "applied_at": null
   },
   {
     "company": "IMC",
-    "title": "Compliance Data Analyst",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4749997101",
-    "posted": "2026-01-08T15:29:46-05:00",
+    "title": "Graduate Software Engineer (2026)",
+    "location": "Aarhus, Central Denmark Region, Denmark",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101",
+    "posted": "2025-08-27T14:11:00-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7188174",
+    "posted": "2025-08-27T12:25:33-04:00",
     "applied": false,
     "applied_at": null
   },
   {
     "company": "IMC",
-    "title": "Developer Productivity Engineer",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4683475101",
-    "posted": "2025-09-30T10:35:15-04:00",
+    "title": "Research Engineer",
+    "location": "Chicago, United States; New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4653321101",
+    "posted": "2025-08-18T13:50:55-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer, Commerce Platform ",
+    "location": "Remote - Ireland",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7070269",
+    "posted": "2025-07-18T05:23:02-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "William Blair",
+    "title": "Investment Banking Analyst - Tech-Enabled Services",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4748726007",
+    "posted": "2025-07-16T12:47:50-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Zscaler",
+    "title": "Technical Enablement- SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4779245007",
+    "posted": "2025-07-02T15:31:48-04:00",
     "applied": false,
     "applied_at": null
   },
@@ -460,10 +730,64 @@
   },
   {
     "company": "IMC",
-    "title": "Power & Gas Quantitative Analyst",
-    "location": "Aarhus, Central Denmark Region, Denmark",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4685067101",
-    "posted": "2026-01-06T05:56:37-05:00",
+    "title": "Graduate Machine Learning Researcher",
+    "location": "Chicago, United States; New York, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608585101",
+    "posted": "2025-07-01T16:53:25-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Graduate Quantitative Researcher (BS/MS)",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4580753101",
+    "posted": "2025-07-01T11:15:41-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "Benchling",
+    "title": "Software Engineer, Full Stack (Data Input)",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/benchling/jobs/7008978?gh_jid=7008978",
+    "posted": "2025-06-25T12:39:28-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Data Engineer",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4439297101",
+    "posted": "2025-06-10T12:30:56-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "William Blair",
+    "title": "Investment Banking Analyst - Healthcare",
+    "location": "Chicago, Illinois, United States",
+    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4735720007",
+    "posted": "2025-05-15T16:28:52-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Software Engineer, Early Career",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101",
+    "posted": "2025-04-17T13:55:45-04:00",
+    "applied": false,
+    "applied_at": null
+  },
+  {
+    "company": "IMC",
+    "title": "Machine Learning Engineer",
+    "location": "Chicago, United States",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4570309101",
+    "posted": "2025-04-07T13:15:21-04:00",
     "applied": false,
     "applied_at": null
   },
@@ -487,163 +811,10 @@
   },
   {
     "company": "IMC",
-    "title": "Quantitative Researcher – Futures",
-    "location": "Chicago, United States; New York, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4740859101",
-    "posted": "2025-12-18T14:40:46-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "IMC",
     "title": "Quantitative Researcher - Options",
     "location": "Chicago, United States",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4286816101",
     "posted": "2024-02-06T12:12:56-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "IMC",
-    "title": "Software Engineer – AI Powered Engineering",
-    "location": "Chicago, United States",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4682071101",
-    "posted": "2025-09-26T15:44:39-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "IMC",
-    "title": "Working Student - Tech",
-    "location": "Aarhus, Central Denmark Region, Denmark",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4685421101",
-    "posted": "2025-11-05T07:00:23-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "William Blair",
-    "title": "2027 Investment Banking Summer Analyst, Life Sciences",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4977450007",
-    "posted": "2025-12-01T08:52:01-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "William Blair",
-    "title": "Investment Banking Analyst - Healthcare",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4735720007",
-    "posted": "2025-05-15T16:28:52-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "William Blair",
-    "title": "Investment Banking Analyst - Tech-Enabled Services",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4748726007",
-    "posted": "2025-07-16T12:47:50-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "William Blair",
-    "title": "Researcher",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4959703007",
-    "posted": "2025-11-10T07:34:33-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "William Blair",
-    "title": "Working in Technology (WiT) Application Development - Summer 2026",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
-    "posted": "2025-11-04T17:33:57-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T10:59:59.353Z"
-  },
-  {
-    "company": "William Blair",
-    "title": "Working in Technology (WiT) Data Science - Summer 2026",
-    "location": "Chicago, Illinois, United States",
-    "url": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
-    "posted": "2025-11-04T17:35:01-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T11:00:56.837Z"
-  },
-  {
-    "company": "Twilio",
-    "title": "AI Application Analyst",
-    "location": "Remote - Colombia",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7396056",
-    "posted": "2025-11-13T17:41:34-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Application Integration Engineer",
-    "location": "Remote - Colombia",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7312780",
-    "posted": "2025-10-15T11:20:59-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Cloud Software Engineer",
-    "location": "Remote - Ireland",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7484699",
-    "posted": "2026-01-12T12:33:35-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Conversion Rate Optimization Specialist",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7463712",
-    "posted": "2025-12-11T18:18:48-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Conversion Rate Optimization Specialist",
-    "location": "Remote - Canada",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7461941",
-    "posted": "2025-12-11T17:53:38-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Presales Architect, Product Specialist 5 (CDP, MarTech)",
-    "location": "Remote - Singapore",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7462559",
-    "posted": "2026-01-12T20:42:53-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer, Commerce Platform ",
-    "location": "Remote - Ireland",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7070269",
-    "posted": "2025-07-18T05:23:02-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer- L2",
-    "location": "Remote - US",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7406218",
-    "posted": "2025-11-20T11:06:38-05:00",
     "applied": false,
     "applied_at": null
   },
@@ -655,176 +826,5 @@
     "posted": "2023-01-18T12:43:18-05:00",
     "applied": false,
     "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Business Analyst Intern",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4998297007",
-    "posted": "2025-12-04T15:48:05-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T11:01:55.319Z"
-  },
-  {
-    "company": "Zscaler",
-    "title": "Cyber Incident Response/Customer Security Operations - SkillBridge Intern  ",
-    "location": "Remote - Maryland, USA; Remote - USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4970289007",
-    "posted": "2025-11-05T14:59:11-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Finance Intern ",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5005336007",
-    "posted": "2025-12-16T11:53:37-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Product Management Intern, AI",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4996494007",
-    "posted": "2025-12-02T17:51:31-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T11:02:51.954Z"
-  },
-  {
-    "company": "Zscaler",
-    "title": "Product Operations Intern",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5002419007",
-    "posted": "2025-12-12T14:29:03-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Talent Development Intern",
-    "location": "San Jose, California, USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4989934007",
-    "posted": "2025-11-21T17:25:27-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Technical Enablement- SkillBridge Intern",
-    "location": "Remote - USA",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4779245007",
-    "posted": "2025-07-02T15:31:48-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Zscaler",
-    "title": "Technical Project Management-SkillBridge Intern",
-    "location": "USA - Update Location",
-    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4941045007",
-    "posted": "2025-10-10T14:23:02-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Analyst I, Full Stack",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7560430003",
-    "posted": "2025-12-17T14:50:43-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Analyst II, Full Stack",
-    "location": "Remote Spain",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7580858003",
-    "posted": "2026-01-12T03:18:44-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Analyst II, Full Stack",
-    "location": "Remote Poland",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7511213003",
-    "posted": "2025-11-12T08:28:25-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Analyst II, Full Stack",
-    "location": "Remote UK",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7533759003",
-    "posted": "2025-11-28T05:48:47-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "People Technology Analyst",
-    "location": "Remote UK",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7562139003",
-    "posted": "2025-12-23T11:47:22-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Quantitative Analyst II",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7386523003",
-    "posted": "2025-09-18T15:21:38-04:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer, Backend (Marketplace Experience)",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7579879003",
-    "posted": "2026-01-12T17:52:20-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer I, Back-end (Collections)",
-    "location": "Remote Poland",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7538088003",
-    "posted": "2025-12-01T09:23:01-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer I, Back-end (Collections)",
-    "location": "Remote Spain",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7538090003",
-    "posted": "2025-12-01T09:23:01-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer II, Backend (Credit Decisioning)",
-    "location": "Remote US",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7550577003",
-    "posted": "2025-12-21T11:40:27-05:00",
-    "applied": false,
-    "applied_at": null
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineering Intern - Summer 2026",
-    "location": "San Francisco, California, United States",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7528020003",
-    "posted": "2025-11-24T16:41:13-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T11:03:58.419Z"
   }
 ]
