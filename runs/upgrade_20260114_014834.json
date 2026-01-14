@@ -6,7 +6,7 @@
     "url": "https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002",
     "posted": "2025-09-15T09:36:22-04:00",
     "applied": true,
-    "applied_at": "2026-01-14T10:25:22.896Z"
+    "applied_at": null
   },
   {
     "company": "Duolingo",
@@ -14,8 +14,8 @@
     "location": "New York, NY",
     "url": "https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002",
     "posted": "2025-09-15T13:29:46-04:00",
-    "applied": false,
-    "applied_at": null
+    "applied": true,
+    "applied_at": "2026-01-14T10:26:36.648Z"
   },
   {
     "company": "Duolingo",
@@ -23,7 +23,7 @@
     "location": "Pittsburgh, PA",
     "url": "https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002",
     "posted": "2026-01-05T14:52:19-05:00",
-    "applied": true,
-    "applied_at": "2026-01-14T10:25:30.763Z"
+    "applied": false,
+    "applied_at": null
   }
 ]
